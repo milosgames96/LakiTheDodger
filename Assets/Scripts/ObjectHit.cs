@@ -5,13 +5,13 @@ using UnityEngine;
 public class ObjectHit : MonoBehaviour
 {
 
-    public bool activeCollision = false;
+    private bool activeCollision = false;
     public float invinsibilityPeriod = 1f;
-    public Color oldColor;
+    private Color oldColor;
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision == null || activeCollision) return;
+        if (collision == null || activeCollision || collision.gameObject.tag!="Player") return;
         else
         {
             //Debug.Log("COLLISION!!!");

@@ -3,10 +3,10 @@ using UnityEngine;
 
 public class DogHit : MonoBehaviour
 {
-    public bool activeCollision = false;
+    private bool activeCollision = false;
     public float invinsibilityPeriod = 1f;
-    public int score = 0;
-    public int maxScore = 10;
+    private int score = 0;
+    private int maxScore = 10;
     private void OnCollisionEnter(Collision collision)
     {
         if (collision == null || activeCollision) return;
@@ -15,6 +15,7 @@ public class DogHit : MonoBehaviour
         score++;
         Debug.Log("SCORE: "+score);
         StartCoroutine(Reset());
+        GetComponent<AudioSource>().Play();
 
         if (score >= maxScore)
         {

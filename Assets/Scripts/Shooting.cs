@@ -4,11 +4,11 @@ public class Shooting : MonoBehaviour
 {
     [SerializeField] Transform PlayerTransform;
     [SerializeField] float speed = 1f;
+    public static Vector3 playerPosition;
 
-    Vector3 playerPosition;
-    void Start()
+    private void Start()
     {
-        playerPosition = PlayerTransform.position;
+        //playerPosition = PlayerTransform.position;
     }
 
     void Update()

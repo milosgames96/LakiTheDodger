@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>2d5ab233bcc4524499eda17121d109c4</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1845ae5ccf0da8c4794ea00d205c28f1</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>619c3cbecebeaf146876efdb49180c5f</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4c719b7eefdb3d48b3b87a1e2a39702</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4da56b1363296d443be817766b2d9134</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c9dbba0a58f23b940b1e7f12c465bfb5</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc0a2d1061fbe6a43a717d079c1f2744</guid>
+    <fileName>Assets/Scripts/DogHit.cs</fileName>
+    <timeStamp>2024-11-02T15:25:27.0448149+01:00</timeStamp>
+    <typeFullName>
+      <string>DogHit</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a7f4eb08faaf7b4088d519ae06392e9</guid>
+    <fileName>Assets/Scripts/Dropping.cs</fileName>
+    <timeStamp>2024-11-02T15:42:16.0558685+01:00</timeStamp>
+    <typeFullName>
+      <string>Dropping</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>78b75dbd4403c494fa5d7a906ab7634c</guid>
+    <fileName>Assets/Scripts/Moving.cs</fileName>
+    <timeStamp>2024-11-02T14:04:06.0866532+01:00</timeStamp>
+    <typeFullName>
+      <string>Moving</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a6c0c17c1fa7c4e459a4ff970d372e92</guid>
+    <fileName>Assets/Scripts/ObjectHit.cs</fileName>
+    <timeStamp>2024-11-02T15:05:08.4669647+01:00</timeStamp>
+    <typeFullName>
+      <string>ObjectHit</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c041db5bb8f1ce149aa744cc44b8ce60</guid>
+    <fileName>Assets/Scripts/Shooting.cs</fileName>
+    <timeStamp>2024-11-10T16:09:17.1145286+01:00</timeStamp>
+    <typeFullName>
+      <string>Shooting</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28f7ecfc4588b1840a006651936085e8</guid>
+    <fileName>Assets/Scripts/Spinning.cs</fileName>
+    <timeStamp>2024-11-05T14:19:17.8213296+01:00</timeStamp>
+    <typeFullName>
+      <string>Spinning</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d19b6b1faafacad46babb41b5e32e1a4</guid>
+    <fileName>Assets/Scripts/TriggerSign.cs</fileName>
+    <timeStamp>2024-11-10T16:09:09.4042901+01:00</timeStamp>
+    <typeFullName>
+      <string>TriggerSign</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>

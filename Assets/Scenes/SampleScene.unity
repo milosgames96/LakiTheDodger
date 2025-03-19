@@ -8068,6 +8068,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movespeed: 4
   rotationspeed: 100
+  animator: {fileID: 2082056326}
 --- !u!54 &2082056330
 Rigidbody:
   m_ObjectHideFlags: 0
